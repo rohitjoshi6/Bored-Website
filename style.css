@@ -65,6 +65,18 @@ body {
     font-size: 20px;
 }
 
+.container button{
+    margin-left: 43%;
+    margin-top: 40px;
+}
+
+button{
+    color:black;
+    height:75px;
+    width: 125px;
+    border-radius: 15px;
+}
+
 /*Footer*/
 
 .footer{
@@ -77,3 +89,27 @@ body {
     text-decoration: none;
     color:black;
 }
+
+/*Button*/
+
+.glass-btn {
+
+    display: inline-block;
+    padding: 12px 7px;
+    border: 0;
+    text-decoration: none;
+    border-radius: 15px;
+    background-color: rgba(255,255,255,0.1);
+    border: 1px solid rgba(255,255,255,0.1);
+    backdrop-filter: blur(30px);
+    color: rgba(26, 25, 25, 0.8);
+    font-size: 20px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    text-transform: uppercase;
+  }
+  
+  .glass-btn:hover {
+    background-color: rgba(255,255,255,0.2);
+  }
+  
