@@ -119,3 +119,25 @@ button{
     background-color: rgba(255,255,255,0.2);
   }
   
+
+/*Media queries*/
+
+@media only screen and (max-width: 600px) {
+
+    .container{
+        height: 75%;
+        width: 85%;
+    }
+
+    .footer{
+        margin:15px;
+    }
+
+    .container button{
+        margin-left: 37%;
+    }
+
+    .text-area{
+        font-size: 35px;
+    }
+}   
