@@ -8,7 +8,7 @@ const button=document.querySelector('#glass-btn');
 
 button.addEventListener('click', async function(){
 
-    const res= await fetch('http://www.boredapi.com/api/activity/');
+    const res= await fetch('https://www.boredapi.com/api/activity/');
     const myJson= await res.json();
 
     let myString= JSON.stringify(myJson);
