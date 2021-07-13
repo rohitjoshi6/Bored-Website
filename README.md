@@ -1,2 +1,2 @@
 # Bored-Website
-A website built using HTML,CSS, JS and Bored api.
+Made this coz I was Bored! lol
