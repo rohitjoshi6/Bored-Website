@@ -3,10 +3,10 @@
 <h4>Use this website to find activities to kill your boredom.</h4>
 
 - Tech used:
-1)HTML (Basic Structure of the page)
-2)CSS (Glassmorphism, Media Queries)
-3)JS (Fetching api, TextContent)
-4)Bored api
+ 1)HTML (Basic Structure of the page)
+ 2)CSS (Glassmorphism, Media Queries)
+ 3)JS (Fetching api, TextContent)
+ 4)Bored api
 <br>
 
 - Link to website: https://rohitjoshi6.github.io/Bored-Website/
@@ -18,4 +18,8 @@
 
 <h4>With breakpoint at 600px: </h4> 
 
-![image-2](./Screenshots/image-2.png)
+<p align="center">
+
+<img src="./Screenshots/image-2.png"/>
+
+</p>
